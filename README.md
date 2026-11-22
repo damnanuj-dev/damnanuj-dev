@@ -35,7 +35,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-**Anuj**, Here — a final-year Computer Engineering student focused on full-stack development and UI/UX design.
+**Anuj**, Here — a Computer Science student focused on full-stack development and UI/UX design.
 
 I enjoy building scalable, production-ready web applications & APIs with Python, JavaScript, and TypeScript, and continuously improving my understanding of real-world systems.
 
