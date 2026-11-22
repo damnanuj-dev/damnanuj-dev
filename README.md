@@ -1,6 +1,15 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/damnanuj-dev/damnanuj-dev/main/assets/header.jpg" alt="header" />
-</p>
+<div align="center">
+
+<pre>
+ ░█████╗░███╗░░██╗██╗░░░██╗░░░░░██╗
+ ██╔══██╗████╗░██║██║░░░██║░░░░░██║
+ ███████║██╔██╗██║██║░░░██║░░░░░██║
+ ██╔══██║██║╚████║██║░░░██║██╗░░██║
+ ██║░░██║██║░╚███║╚██████╔╝╚█████╔╝
+ ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░░╚════╝░
+</pre>
+
+</div>
 
 <h1 align="center">Hi 👋, Imma Anuj</h1>
 
@@ -202,8 +211,6 @@ My goal is simple: write clean code, design intuitive interfaces, build reliable
 <td width="38%" valign="middle" align="right"><a href="https://github.com/damnanuj-dev">GitHub</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>damnanuj-dev · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 ---
 
