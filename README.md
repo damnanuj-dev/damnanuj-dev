@@ -1,96 +1,110 @@
-<h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">Web Developer | App Builder</h3>
+<!--
+  HOW TO USE
+  1. Create a repo named EXACTLY your GitHub username (public) and add this as README.md
+  2. Find & replace  YOUR_USERNAME  with your GitHub username
+  3. Edit the text marked  ✏️  (role, about, links, location)
+-->
+
+<!-- ═════════════ BANNER ═════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d3a,100:00d9a6&height=220&section=header&text=Anuj&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Dev%20%C2%B7%20Builder%20%C2%B7%20Always%20Learning&descSize=20&descAlignY=60&animation=fadeIn" alt="Anuj banner" />
+</p>
+
+<!-- ═════════════ INTRO ═════════════ -->
+<h2 align="center">Hi 👋, I'm Anuj</h2>
+
+<div align="center">
+
+### ✏️ Backend Developer
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9A6&center=true&vCenter=true&width=520&lines=Just+Code.;Building+reliable+backend+systems;Clean+architecture+%7C+Scalable+solutions" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+<!-- ═════════════ ABOUT ME ═════════════ -->
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center">
+<tr>
+<td width="62%" valign="top">
+
+**Anuj**, here — ✏️ a Computer Engineering student focused on building things that matter.
+
+I enjoy building scalable, production-ready APIs and continuously improving my understanding of real-world systems.
+
+- 🔭 **Building now:** ✏️ your project name
+- 🌱 **Learning:** **FastAPI**, **PostgreSQL**, **Docker**, **Redis**, and **Data Structures & Algorithms**
+- 🎯 **Goal:** write clean code, build reliable software, and grow into an engineer who creates systems that last
+- 🤝 **Open to:** internships & freelance work
+- 💬 **Ask me about:** Python, APIs, databases
+- 📍 **Location:** ✏️ India
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<!-- ✏️ Replace with your own pixel-art / avatar image URL -->
+<img src="https://github.com/YOUR_USERNAME.png" width="220" alt="Anuj avatar" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═════════════ CONNECT ═════════════ -->
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/damnanuj-dev)
-[<img src="https://img.shields.io/badge/Twitter-102216?style=for-the-badge&logo=x&logoColor=11d452"/>](https://twitter.com/damnanujdev)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:damnanuj09@gmail.com)
-<img src="https://img.shields.io/badge/Discord-102216?style=for-the-badge&logo=discord&logoColor=11d452" alt="Discord"/>
-</p>
-
-<hr/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=damnanuj-dev&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy-mu.vercel.app/?username=damnanuj-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-102216?style=for-the-badge&logo=csharp&logoColor=11d452" alt="C#"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-102216?style=for-the-badge&logo=openai&logoColor=11d452" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-102216?style=for-the-badge&logo=adobephotoshop&logoColor=11d452" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
-  <img src="https://img.shields.io/badge/Canva-102216?style=for-the-badge&logo=canva&logoColor=11d452" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android"/>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=damnanuj-dev&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damnanuj-dev&layout=compact&theme=onedark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damnanuj-dev&theme=onedark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damnanuj-dev&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
-Built with [GPRG](https://gprg.bhalli.dev)
+
+<!-- ═════════════ TECH STACK ═════════════ -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws,numpy,pytorch,tensorflow,redis,linux,gcp&perline=9" alt="Tech stack" />
+  </a>
+</p>
+
+---
+
+<!-- ═════════════ GITHUB STATS ═════════════ -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6" alt="Streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9A6" alt="Top languages" />
+</p>
+
+---
+
+<!-- ═════════════ ACTIVITY GRAPH ═════════════ -->
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9A6&line=00D9A6&point=FFFFFF&area=true&area_color=00D9A6&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+<!-- ═════════════ FOOTER ═════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9a6,50:0b3d3a,100:0d1117&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center"><i>"Make it work, make it right, make it fast."</i></p>
